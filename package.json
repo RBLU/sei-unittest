@@ -1,0 +1,23 @@
+{
+  "name": "sei-unittest",
+  "version": "1.0.0",
+  "description": "Excercise 1",
+  "main": "fizzbuzz.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBLU/sei-unittest.git"
+  },
+  "author": "Reto Blunschi <reto.blunschi@youpers.com> (http://www.youpers.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBLU/sei-unittest/issues"
+  },
+  "homepage": "https://github.com/RBLU/sei-unittest#readme"
+}
