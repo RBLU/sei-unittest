@@ -22,6 +22,8 @@ function fizzbuzz(number) {
         return 'buzz';
     } else if (by3) {
         return 'fizz';
+    } else if (Number.isInteger(number)) {
+        return number;
     }
 }
 
