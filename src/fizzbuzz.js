@@ -3,7 +3,7 @@ let memory;
 function fizzbuzz(number) {
 
     if (typeof number === 'string') {
-        throw 'invalid argument, strings are not supported';
+        throw 'Ich kann keine Strings';
     }
 
     memory = number;
@@ -17,7 +17,7 @@ function fizzbuzz(number) {
     } else if (isPrime(number)) {
       return 'prime';
     } else if (by5 && by3) {
-        return 'fizzbuzz';
+        return 'fizzBuzz';
     } else if (by5) {
         return 'buzz';
     } else if (by3) {
