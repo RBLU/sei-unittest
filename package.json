@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "Excercise 1",
   "main": "fizzbuzz.js",
-  "dependencies": {},
+  "dependencies": {
+    "chokidar": "^2.0.4"
+  },
   "devDependencies": {
     "jasmine": "^3.1.0"
   },
   "scripts": {
-    "test": "npm test"
+    "testwatch": "nodemon --exec \"jasmine\" --watch src --watch spec",
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
