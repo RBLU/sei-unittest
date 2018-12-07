@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/RBLU/sei-unittest.git"
   },
-  "author": "Reto Blunschi <reto.blunschi@youpers.com> (http://www.youpers.com)",
+  "author": "Reto Blunschi <reto.blunschi@creagy.ch> (http://www.creagy.ch)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RBLU/sei-unittest/issues"
