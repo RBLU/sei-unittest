@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Excercise 1",
   "main": "fizzbuzz.js",
-  "dependencies": {
-    "chokidar": "^2.0.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "jasmine": "^3.1.0"
   },
